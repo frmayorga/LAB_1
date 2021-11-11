@@ -41,3 +41,10 @@ Por consiguiente se armo el siguiente circuito en el simulador virtual TINKERCAD
 # CONCLUSIONES
 
 # BIBLIOGRAFIA
+
+- Floyd, T. (2007). *Principios de circuitos eléctricos*. Octava edición. Mexico. Editorial Pearson.
+- Robbins, A., Miller, W. (2008) *Analisis de circuitos Teoria y Practica*. Cuarta Edicion. Mexico. Editorial CENGAGE Learning.
+- Torres, H. (24 de Enero de 2018) *La Ley de Ohm*. [archivo PDF]. https://hetpro-store.com/PDFs/La-Ley-de-Ohm.pdf 
+- Salazar, A. (s.f.) *LEYES DE VOLTAJES Y CORRIENTES DE KIRCHHOFF*. [archivo PDF] http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf 
+
+
