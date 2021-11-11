@@ -24,6 +24,9 @@ Se utilizo los siguientes materiales
 | 1 | Resistor de 3.9 kΩ |
 | 1 | Protoboard |
 
+Por consiguiente se armo el siguiente circuito en el simulador virtual TINKERCAD: 
+
+![image](https://user-images.githubusercontent.com/93361435/141212814-970f588c-f726-407f-a879-8d9a3a8c4add.png)
 
 # RESPUESTA DE INTERROGANTES
 
