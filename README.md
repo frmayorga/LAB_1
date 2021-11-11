@@ -11,8 +11,9 @@
 
 ![lab1 1](https://user-images.githubusercontent.com/93561706/141365791-99e5f16a-eec6-4482-a5da-2cec4cf9452d.jpg)
 
-
 ![lab1 22](https://user-images.githubusercontent.com/93561706/141365810-79bdb7fc-da8f-4f0d-abf2-27da61c10277.jpg)
+
+![lab1 3](https://user-images.githubusercontent.com/93561706/141369551-a6dd8746-624c-4750-a00e-e513e7d6b6eb.jpg)
 
 
 # PROCEDIMIENTO
