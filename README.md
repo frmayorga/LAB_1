@@ -17,7 +17,7 @@
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
 
-| DIGITO | COLOR |
+/centering| DIGITO | COLOR |/centering
 |--------|------------|
 | 0 | Negro |
 | 1 | Café |
