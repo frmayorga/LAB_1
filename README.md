@@ -226,7 +226,7 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 - El loratorio vitual puede llegar a tener errores en las mediciones aunque el error es mínimo y no afecta a la práctica, es importante revisar los calculos hechos y compararlos con los medidos, ya que ahi se puede observar si hay algún tipo de error con nuestras mediciones 
 
--
+- Se demostro que la ley de Kirchhoff es una herramienta muy util siempre y cuando nosotros conocemos e interpretemos bien la teoria, asi es como podemos resoolver los ejercicios. 
 
 # BIBLIOGRAFIA
 
