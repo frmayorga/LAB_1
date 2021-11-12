@@ -132,7 +132,24 @@ Para concluir colocamos los resultados en la tabla y pasamos a vericas con el si
 - por la teoria recibida en clases se sabe que para que se cumpla la ley de las corrientes es necesario que ∑I = 0 de esta manera los calculos que demuestran la valides de los resultados obtenidos en la tabla son los siguientes:  
 -![image](https://user-images.githubusercontent.com/93398718/141456106-ee3f9aa5-b336-4cf4-9ec3-c35c9d0f11a2.png)
 
--  ####nodo 1:
+#### nodo 1:  
+![image](https://user-images.githubusercontent.com/93398718/141457787-09aad061-4406-4762-8d06-705a8b9a5c77.png)
+
+#### nodo 2:   
+![image](https://user-images.githubusercontent.com/93398718/141458515-eb3e1218-5bc7-439d-934c-758bc7ccb0e2.png)
+
+#### nodo 3:
+![image](https://user-images.githubusercontent.com/93398718/141459061-6e13eda8-a83e-48c9-ad80-b8b08d82b91f.png)
+
+#### nodo 4:  
+![image](https://user-images.githubusercontent.com/93398718/141459474-079aa900-8839-4e9e-962d-c57669aec664.png)
+
+#### nodo 5:  
+![image](https://user-images.githubusercontent.com/93398718/141459724-d142f356-9284-4041-925a-a0e256119f98.png)
+
+- en el nodo 4 se hace uso del valor calculado y el valor medido porque fue el unico punto en el cual los resultados fueron diferentes.
+- a continuacion se presentan los valores medidos en el programa tinkercad:  
+![image](https://user-images.githubusercontent.com/93398718/141460409-daf75c6a-1c3a-4355-be56-1b4d85b959de.png)
 
 
 
