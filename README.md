@@ -221,6 +221,8 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 # VIDEO
 
+https://youtu.be/FW-AcRSkXaU 
+
 # CONCLUSIONES
 -  la ley de las corrientes de kirchhoff  nos permite conocer la forma en que se distribuye una corriente cuando esta  se difracta en un nodo , de tal manera que en el caso de que tengamos los datos suficientes podriamos saber que  valor tiene una intensidad  en especifico, ademas, estas leyes simplifican el calculo de circuitos en serie de manera muy significativa.
 
