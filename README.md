@@ -66,8 +66,58 @@ Por consiguiente se armo el siguiente circuito en el simulador virtual TINKERCAD
 
 ![image](https://user-images.githubusercontent.com/93361435/141212814-970f588c-f726-407f-a879-8d9a3a8c4add.png)
 
+## PROCEDIMIENTO TABLA 1: 
+
+Usamos resistores equivalentes para poder calcular la corriente y voltaje de los resistores.
+En el primer resistor es posible calcular la intensidad mediante la ley de ohm y el voltaje mediante la ley de ohm o la relación entre voltaje y resistores
+
+![image](https://user-images.githubusercontent.com/93361435/141399359-91b8de7a-7151-404b-9e73-29db4fc333b7.png)
+
+En el segundo resistor se usó una resistencia equivalente para encontrar el valor del voltaje , la intensidad es la misma ya que se encuentra en serie con los demás resistores 
+En el tercer resistor se utilizo el valor total de R´´ como están conectadas en serie R´´ tiene el mismo valor que R´ para R3 como esta conectada en serie tiene la mitad de R´ ya que como podemos observar R´ = 2R_3, para la intensidad en R3 se utilizo el valor de volatje de R´ ya que en paralelo tienen el mismo voltaje y calculamos con la ley de ohm 
+
+![image](https://user-images.githubusercontent.com/93361435/141398063-ee158f51-6345-4d1d-b6d8-24b777af52ec.png)
+
+En el cuarto resistor como esta conectado en serie con R_3 la intensidad es la misma y el voltaje lo calculamos como R´ = 2V_2
+En el quinto resistor podemos calcularlo con la ley de ohm ya que se encuentra en serie la corriente seria la misma que la inicial y el voltaje lo calculamos con la ley de ohm 
+
+![image](https://user-images.githubusercontent.com/93361435/141398087-ae606651-67c9-40ae-b313-5e37b4d47863.png)
+
+![image](https://user-images.githubusercontent.com/93361435/141398100-336ad601-7155-4294-88ef-894ff143108e.png)
+
+Ahora calculamos el error:
+
+En la intensidad de R_3 y R_4
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R3}}=\frac{|Valor&space;C&space;-&space;Valor&space;M|}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R3}}=\frac{|Valor C - Valor M|}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R4}}=\frac{|Valor&space;C&space;-&space;Valor&space;M}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R4}}=\frac{|Valor C - Valor M}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
+
+
 # RESPUESTA DE INTERROGANTES
 
+### TABLA 1
+
+Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+
+| Variable | Valor Calculado | Valor Medido |
+|------------- | -------------------- | ------------------ |
+| V_R1 | 2.05 V | 2.05 V |
+| I_R1 | 2.05 mA | 2.05 mA |
+| V_R2 | 4.25 V | 4.25 V |
+| I_R2 | 2.05 mA | 2.05 mA |
+| V_R3 | 2.11 V | 2.12 V |
+| I_R3 | 963 uA | 965 uA |
+| V_R4 | 2.11 V | 2.12 V |
+| I_R4 | 963 uA | 965 uA |
+| V_R5 | 3.7 V | 3.7 V |
+| I_R5 | 2.05 mA | 2.05 mA | 
+
+**CALCULO DE ERROR**
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R3}}=\frac{|Valor&space;C&space;-&space;Valor&space;M|}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R3}}=\frac{|Valor C - Valor M|}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R4}}=\frac{|Valor&space;C&space;-&space;Valor&space;M}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R4}}=\frac{|Valor C - Valor M}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
 
 # VIDEO
 
