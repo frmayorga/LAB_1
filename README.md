@@ -96,6 +96,15 @@ En la intensidad de R_3 y R_4
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R4}}=\frac{|Valor&space;C&space;-&space;Valor&space;M}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R4}}=\frac{|Valor C - Valor M}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
 
+**CALCULOS AUXILIARES**
+
+VOLTAJE EN R2
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;V_{R_2}&space;=&space;\left&space;(&space;\frac{Vs}{RT}&space;\right&space;)R_2&space;=&space;\left&space;(&space;\frac{10&space;V}{4.87&space;k\Omega&space;}&space;\right&space;)2.067k\Omega&space;=&space;4.24&space;V" title="\bg_black \inline V_{R_2} = \left ( \frac{Vs}{RT} \right )R_2 = \left ( \frac{10 V}{4.87 k\Omega } \right )2.067k\Omega = 4.24 V" />
+
+VOLTAJE EN R5
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;V_{R_5}&space;=&space;\left&space;(&space;\frac{Vs}{RT}&space;\right&space;)R_5&space;=&space;\left&space;(&space;\frac{10&space;V}{4.87&space;k\Omega&space;}&space;\right&space;)1.8k\Omega&space;=&space;3.70&space;V" title="\bg_black \inline V_{R_5} = \left ( \frac{Vs}{RT} \right )R_5 = \left ( \frac{10 V}{4.87 k\Omega } \right )1.8k\Omega = 3.70 V" />
 
 # RESPUESTA DE INTERROGANTES
 
