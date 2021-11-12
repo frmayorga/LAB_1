@@ -170,7 +170,8 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 ### TABLA 3
 
-![image](https://user-images.githubusercontent.com/93398718/141437831-89c1ce31-5a2a-4d5f-9225-ce7674208f22.png)
+![image](https://user-images.githubusercontent.com/93398718/141452992-e35cd211-8533-475b-b554-106c715d2626.png)   
+
 - Como se puede apreciar en el nodo dos y el nodo cuatro obtenemos valores que no son iguales a cero, sin embargo , si son proximos a cero esto sucede debido a los diferentes errores de calculo que pueden suceder he inclusive a la confiabilidad del aparato de medicion.
 
 # VIDEO
