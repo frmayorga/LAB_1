@@ -17,7 +17,7 @@
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
 
-/centering| DIGITO | COLOR |/centering
+| DIGITO | COLOR |
 |--------|------------|
 | 0 | Negro |
 | 1 | Café |
@@ -31,6 +31,22 @@
 | 9 | Blanco |
 
 TOLERANCIA : Oro +- 5%; Plata +- 10%.
+
+![image](https://user-images.githubusercontent.com/93361435/141390249-a1bc9655-3102-4c92-97af-515aacc43518.png)
+
+**RELACION LINEAL CORRIENTE - VOLTAJE**
+
+Con un valor constante de R, si el valor de V se incrementa, el valor de I se incrementa; si V disminuye, I disminuye. Si V se mantiene constante y R se incrementa, I disminuye. Asimismo, si V se mantiene constante y R disminuye, I se incrementa.
+
+En la siguiente imagen podemos observar la relación lineal entre corriente y voltaje con una resistencia constante: 
+
+![image](https://user-images.githubusercontent.com/93361435/141390367-4ed4d2d6-c8b0-4317-8499-c4ceecd5975a.png)
+
+**RELACION INVERSA CORRIENTE - RESISTENCIA**
+
+Y en la siguiente imagen la relación inversa de corriente y resistencia con un voltaje constante: 
+
+![image](https://user-images.githubusercontent.com/93361435/141390563-0c3d1077-a8f6-459d-bd22-20c62d5e3b33.png)
 
 # PROCEDIMIENTO
 
