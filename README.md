@@ -163,20 +163,26 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 |------------- | -------------------- | ------------------ | --------------- |
 | V_R1 | 2.05 V | 2.05 V | 0 % |
 | I_R1 | 2.05 mA | 2.05 mA | 0 % |
-| V_R2 | 4.25 V | 4.25 V | 0 % |
+| V_R2 | 4.24 V | 4.25 V | 0.24 % % |
 | I_R2 | 1.09 mA | 1.09 mA | 0 % |
-| V_R3 | 2.12 V | 2.12 V | 0 % |
+| V_R3 | 2.118 V | 2.12 V | 0 % |
 | I_R3 | 963 uA | 965 uA | 0.21 % |
-| V_R4 | 2.12 V | 2.12 V | 0 % |
+| V_R4 | 2.118 V | 2.12 V | 0.094 % |
 | I_R4 | 963 uA | 965 uA | 0.21 % |
-| V_R5 | 3.7 V | 3.7 V | 0 % |
+| V_R5 | 3.69 V | 3.7 V | 0.27 % % |
 | I_R5 | 2.05 mA | 2.05 mA | 0 % | 
 
 **CALCULO DE ERROR**
 
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{R2}&space;=&space;\frac{|Vc-Vm|}{Vc}=&space;\frac{|4.24-4.25|}{4.24}&space;=&space;0.24&space;%" title="\bg_black \inline e_{R2} = \frac{|Vc-Vm|}{Vc}= \frac{|4.24-4.25|}{4.24} = 0.24 %" />
+
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R3}}=\frac{|Valor&space;C&space;-&space;Valor&space;M|}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R3}}=\frac{|Valor C - Valor M|}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
 
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{R3}&space;=&space;\frac{|Vc-Vm|}{Vc}=&space;\frac{|2.118&space;-&space;2.12|}{2.118}&space;=&space;0.094&space;%" title="\bg_black \inline e_{R3} = \frac{|Vc-Vm|}{Vc}= \frac{|2.118 - 2.12|}{2.118} = 0.094 %" />
+
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R4}}=\frac{|Valor&space;C&space;-&space;Valor&space;M}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R4}}=\frac{|Valor C - Valor M}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{R5}&space;=&space;\frac{|Vc-Vm|}{Vc}=&space;\frac{|3.69&space;-&space;3.70|}{3.69}&space;=&space;0.27&space;%" title="\bg_black \inline e_{R5} = \frac{|Vc-Vm|}{Vc}= \frac{|3.69 - 3.70|}{3.69} = 0.27 %" />
 
 ### TABLA 2
 
