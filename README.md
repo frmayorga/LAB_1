@@ -96,15 +96,36 @@ En la intensidad de R_3 y R_4
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R4}}=\frac{|Valor&space;C&space;-&space;Valor&space;M}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R4}}=\frac{|Valor C - Valor M}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
 
-**CALCULOS AUXILIARES**
+## PROCEDIMIENTO TABLA 2:
 
-VOLTAJE EN R2
+Se debe partir del circuito anterior para poder resolver lo que nos pide el enunciado:
 
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;V_{R_2}&space;=&space;\left&space;(&space;\frac{Vs}{RT}&space;\right&space;)R_2&space;=&space;\left&space;(&space;\frac{10&space;V}{4.87&space;k\Omega&space;}&space;\right&space;)2.067k\Omega&space;=&space;4.24&space;V" title="\bg_black \inline V_{R_2} = \left ( \frac{Vs}{RT} \right )R_2 = \left ( \frac{10 V}{4.87 k\Omega } \right )2.067k\Omega = 4.24 V" />
+![image](https://user-images.githubusercontent.com/93561706/141404339-3f4f0e48-0ce1-4865-8fc9-a7b2e5cfbb2b.png)
 
-VOLTAJE EN R5
+Para facilitarnos los calculos, vamos a dividirlos por trayectorias, a cada trayectoria vamos a calcular los voltajes de las resistencias correspondientes: 
 
-<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;V_{R_5}&space;=&space;\left&space;(&space;\frac{Vs}{RT}&space;\right&space;)R_5&space;=&space;\left&space;(&space;\frac{10&space;V}{4.87&space;k\Omega&space;}&space;\right&space;)1.8k\Omega&space;=&space;3.70&space;V" title="\bg_black \inline V_{R_5} = \left ( \frac{Vs}{RT} \right )R_5 = \left ( \frac{10 V}{4.87 k\Omega } \right )1.8k\Omega = 3.70 V" />
+* Trayectoria 1:
+
+![image](https://user-images.githubusercontent.com/93561706/141406371-e9b4e676-1458-4a8e-a0eb-3fcf540a10f9.png)
+
+* Trayectoria 2:
+
+![image](https://user-images.githubusercontent.com/93561706/141407750-81093a2d-1d2f-45c7-9d9a-3987da7afbd6.png)
+
+* Trayectoria 3:
+
+![image](https://user-images.githubusercontent.com/93561706/141407816-4350e99c-3667-4c48-91aa-b90ab394cb51.png)
+
+Una vez que ya determinamos nuestra trayectorias, pasamos a los calculos y tambien comprobaremos que los calculos esten bien con la ayuda del simulador.
+Iniciamos calculando la reciestencia total de cada trayectoria, para asi poder utilizar la formula de la division de volteja, esta formula nos ayuda a determinar el valor del voltaje en nuestra resistencia, pero tambien hay que tener en cuenta que estos valores de los voltejes de las resistencias van ha ser negativos ya que estos biene hacer las caidas del voltaje, asi que usaremos este principio de la teoria.
+
+![image](https://user-images.githubusercontent.com/93561706/141408898-098aa3d7-490e-486d-a99f-47ac9c364596.png)
+
+Luego para verificar que los resultados esten bien usaremos el princio de la Ley del voltaje de Kirchhoff la cual nos dice que la suma de los voltajes de las resistencias es igual al voltaje inicial del circuito o en otras palabras que el voltaje inicial menos la suma de los voltajes de las resistencias es igual a cero.  
+
+![image](https://user-images.githubusercontent.com/93561706/141409120-1bff19e0-be11-4c82-bd9b-77fa372db194.png)
+
+Para concluir colocamos los resultados en la tabla y pasamos a vericas con el simular que esten bien.
 
 # RESPUESTA DE INTERROGANTES
 
@@ -130,6 +151,23 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R3}}=\frac{|Valor&space;C&space;-&space;Valor&space;M|}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R3}}=\frac{|Valor C - Valor M|}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;e_{I_{R4}}=\frac{|Valor&space;C&space;-&space;Valor&space;M}{ValorC}&space;\times&space;&space;100&space;=&space;\frac{|963-965|}{963}&space;\times&space;100=&space;0.21%" title="\bg_black \inline e_{I_{R4}}=\frac{|Valor C - Valor M}{ValorC} \times 100 = \frac{|963-965|}{963} \times 100= 0.21%" />
+
+### TABLA 2
+
+![image](https://user-images.githubusercontent.com/93561706/141405640-ddb56582-e391-4833-890d-d5e373381e88.png)
+
+![image](https://user-images.githubusercontent.com/93561706/141405787-bea7f391-1784-4d0f-b7a0-7170f47645dd.png)
+
+![image](https://user-images.githubusercontent.com/93561706/141405808-653bd5ac-14e5-49fb-812a-86568b834650.png)
+
+![image](https://user-images.githubusercontent.com/93561706/141405874-1f5fbfa4-cf86-4baf-b117-27684157de90.png)
+
+![image](https://user-images.githubusercontent.com/93561706/141405900-03db7ad1-f9e2-4b8e-bbec-2e29e9365ac4.png)
+
+![image](https://user-images.githubusercontent.com/93561706/141405974-531e1b67-dc59-4eca-94a1-906490ff45aa.png)
+
+![image](https://user-images.githubusercontent.com/93561706/141405993-8530b9d8-1998-4bfc-9b6e-7716f240531a.png)
+
 
 # VIDEO
 
