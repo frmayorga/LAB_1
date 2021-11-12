@@ -7,7 +7,7 @@
 Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, a través del uso del conocimiento teórico y simuladores virtuales. Además sustentando la investigación con el uso de tablas y materiales bibliográficos.
 
 ## OBJETIVO ESPECIFICO
-
+- aplicar la ley de las corrientes de kirchhoff para el analisis de circuitos  y su interpretacion.
 
 # MARCO TEORICO
 
@@ -214,11 +214,14 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 - Como se puede apreciar en el nodo dos y el nodo cuatro obtenemos valores que no son iguales a cero, sin embargo , si son proximos a cero esto sucede debido a los diferentes errores de calculo que pueden suceder he inclusive a la confiabilidad del aparato de medicion.
 
+- ademas podemos notar que solo en un nodo fue necesario realizar los calculos para el valor medido y para el valor calculado de modo que podemos decir que las mediciones son muy precisas.
+
 # VIDEO
 
 # CONCLUSIONES
+-  la ley de las corrientes de kirchhoff  nos permite conocer la forma en que se distribuye una corriente cuando esta  se difracta en un nodo , de tal manera que en el caso de que tengamos los datos suficientes podriamos saber que  valor tiene una intensidad  en especifico, ademas, estas leyes simplifican el calculo de circuitos en serie de manera muy significativa.
 
-- El laboratorio vitual puede llegar a tener errores en las mediciones aunque el error es mínimo y no afecta a la práctica, es importante revisar los calculos hechos y compararlos con los medidos, ya que ahi se puede observar si hay algún tipo de error con nuestras mediciones 
+- El loratorio vitual puede llegar a tener errores en las mediciones aunque el error es mínimo y no afecta a la práctica, es importante revisar los calculos hechos y compararlos con los medidos, ya que ahi se puede observar si hay algún tipo de error con nuestras mediciones 
 
 # BIBLIOGRAFIA
 
