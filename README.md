@@ -127,6 +127,15 @@ Luego para verificar que los resultados esten bien usaremos el princio de la Ley
 
 Para concluir colocamos los resultados en la tabla y pasamos a vericas con el simular que esten bien.
 
+
+## procedimiento tabla  3 
+- por la teoria recibida en clases se sabe que para que se cumpla la ley de las corrientes es necesario que ∑I = 0 de esta manera los calculos que demuestran la valides de los resultados obtenidos en la tabla son los siguientes:  
+-![image](https://user-images.githubusercontent.com/93398718/141456106-ee3f9aa5-b336-4cf4-9ec3-c35c9d0f11a2.png)
+
+-  ####nodo 1:
+
+
+
 # RESPUESTA DE INTERROGANTES
 
 ### TABLA 1
