@@ -74,6 +74,7 @@ En el primer resistor es posible calcular la intensidad mediante la ley de ohm y
 ![image](https://user-images.githubusercontent.com/93361435/141399359-91b8de7a-7151-404b-9e73-29db4fc333b7.png)
 
 En el segundo resistor se usó una resistencia equivalente para encontrar el valor del voltaje , la intensidad es la misma ya que se encuentra en serie con los demás resistores 
+
 En el tercer resistor se utilizo el valor total de R´´ como están conectadas en serie R´´ tiene el mismo valor que R´ para R3 como esta conectada en serie tiene la mitad de R´ ya que como podemos observar R´ = 2R_3, para la intensidad en R3 se utilizo el valor de volatje de R´ ya que en paralelo tienen el mismo voltaje y calculamos con la ley de ohm 
 
 ![image](https://user-images.githubusercontent.com/93361435/141398063-ee158f51-6345-4d1d-b6d8-24b777af52ec.png)
