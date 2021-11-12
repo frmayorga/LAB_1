@@ -218,6 +218,8 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 # CONCLUSIONES
 
+- El laboratorio vitual puede llegar a tener errores en las mediciones aunque el error es mínimo y no afecta a la práctica, es importante revisar los calculos hechos y compararlos con los medidos, ya que ahi se puede observar si hay algún tipo de error con nuestras mediciones 
+
 # BIBLIOGRAFIA
 
 - Floyd, T. (2007). *Principios de circuitos eléctricos*. Octava edición. Mexico. Editorial Pearson.
