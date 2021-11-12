@@ -3,6 +3,8 @@
 # OBJETIVOS
 
 ## OBJETIVO GENERAL 
+ 
+Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, a través del uso del conocimiento teórico y simuladores virtuales. Además sustentando la investigación con el uso de tablas y materiales bibliográficos.
 
 ## OBJETIVO ESPECIFICO
 
