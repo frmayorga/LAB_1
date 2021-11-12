@@ -159,18 +159,18 @@ Para concluir colocamos los resultados en la tabla y pasamos a vericas con el si
 
 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
-| Variable | Valor Calculado | Valor Medido |
-|------------- | -------------------- | ------------------ |
-| V_R1 | 2.05 V | 2.05 V |
-| I_R1 | 2.05 mA | 2.05 mA |
-| V_R2 | 4.25 V | 4.25 V |
-| I_R2 | 2.05 mA | 2.05 mA |
-| V_R3 | 2.11 V | 2.12 V |
-| I_R3 | 963 uA | 965 uA |
-| V_R4 | 2.11 V | 2.12 V |
-| I_R4 | 963 uA | 965 uA |
-| V_R5 | 3.7 V | 3.7 V |
-| I_R5 | 2.05 mA | 2.05 mA | 
+| Variable | Valor Calculado | Valor Medido | Error |
+|------------- | -------------------- | ------------------ | --------------- |
+| V_R1 | 2.05 V | 2.05 V | 0 % |
+| I_R1 | 2.05 mA | 2.05 mA | 0 % |
+| V_R2 | 4.25 V | 4.25 V | 0 % |
+| I_R2 | 1.09 mA | 1.09 mA | 0 % |
+| V_R3 | 2.12 V | 2.12 V | 0 % |
+| I_R3 | 963 uA | 965 uA | 0.21 % |
+| V_R4 | 2.12 V | 2.12 V | 0 % |
+| I_R4 | 963 uA | 965 uA | 0.21 % |
+| V_R5 | 3.7 V | 3.7 V | 0 % |
+| I_R5 | 2.05 mA | 2.05 mA | 0 % | 
 
 **CALCULO DE ERROR**
 
